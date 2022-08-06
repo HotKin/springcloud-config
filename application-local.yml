@@ -10,4 +10,4 @@ eureka:
     instance-id: ${spring.application.name}:${eureka.instance.ip-address}:${server.port}
 test:
   t1:
-    t1v: value11111
+    t1v: local
